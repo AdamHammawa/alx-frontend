@@ -1,1 +1,1 @@
-Web architecture
+web architecture
