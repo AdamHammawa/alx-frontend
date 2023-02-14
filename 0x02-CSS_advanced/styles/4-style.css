@@ -28,11 +28,11 @@ h6 {
 
 .section-tagline {
     color: var(--color-primary);
-    font-family: var(--font-family-base);
 }
 
 body {
     color: var(--text-color);
+    font-family: var(--font-family-base);
 }
 
 a {
